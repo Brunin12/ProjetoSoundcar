@@ -20,4 +20,4 @@ O SoundCar é uma aplicação web desenvolvida em CodeIgniter 3 para administrar
 2. Faça login com as credenciais padrão: usuário - admin, senha - password.
 3. Comece a adicionar eventos, artistas e gerenciar ingressos.
 
-Desenvolvido por [Seu Nome] - [Seu Email].
+Desenvolvido por Bruno Parreira - BrunoSoft.
