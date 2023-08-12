@@ -1,0 +1,19 @@
+{
+	"name": "Clientes | O Melhor Crud do Mundo",
+	"short_name": "Clientes",
+	"icons": [
+		{
+			"src": "assets/android-chrome-192x192.png",
+			"sizes": "192x192",
+			"type": "image/png"
+		},
+		{
+			"src": "assets/android-chrome-512x512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"theme_color": "#343A40",
+	"background_color": "#F4F6F9",
+	"display": "standalone"
+}

@@ -1,0 +1,21 @@
+{
+	"web": {
+		"client_id":
+      "533097446234-1b59aq6due1ivmmih35sf5puek3k7iqj.apps.googleusercontent.com",
+		"project_id":
+      "soundcar",
+		"auth_uri":
+      "https://accounts.google.com/o/oauth2/auth",
+		"token_uri":
+      "https://oauth2.googleapis.com/token",
+		"auth_provider_x509_cert_url":
+      "https://www.googleapis.com/oauth2/v1/certs",
+		"client_secret":
+      "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",
+		"redirect_uris": [
+			"http://localhost/acessos/google_callback",
+			"http://localhost/acessos/login_google"
+		],
+		"javascript_origins": ["http://localhost"]
+	}
+}
