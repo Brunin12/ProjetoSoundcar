@@ -1,12 +1,12 @@
 # SoundCar - Sistema de Gerenciamento de Consertos Eletrônicos
 
-O SoundCar é uma aplicação web desenvolvida em CodeIgniter 3 para administrar e visualizar eventos de concerto eletrônico.
+O SoundCar é uma aplicação web desenvolvida em CodeIgniter 3 para administrar e visualizar consertos eletrônicos.
 
 ## Recursos Principais
 
-- Gerenciamento de eventos e detalhes
-- Controle de artistas e performances
-- Venda e acompanhamento de ingressos
+- Gerenciamento de Aparelhos
+- Controle de Gastos
+- Cauculo de Orçamento
 
 ## Instalação
 
