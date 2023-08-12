@@ -16,7 +16,7 @@ O SoundCar é uma aplicação web desenvolvida em CodeIgniter 3 para administrar
 
 ## Uso
 
-1. Acesse o painel de administração em `http://seuservidor/soundcar/admin`.
+1. Acesse o painel de administração em `http://localhost/soundcar/`.
 2. Faça login com as credenciais padrão: usuário - admin, senha - password.
 3. Comece a adicionar eventos, artistas e gerenciar ingressos.
 
