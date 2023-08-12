@@ -1,4 +1,4 @@
-# SoundCar - Sistema de Gerenciamento de Concertos Eletrônicos
+# SoundCar - Sistema de Gerenciamento de Consertos Eletrônicos
 
 O SoundCar é uma aplicação web desenvolvida em CodeIgniter 3 para administrar e visualizar eventos de concerto eletrônico.
 
